@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Rahul Pandita, a _senior research scientist_ at [Phase Change Software](http://phasechange.ai/).
+I am Rahul Pandita, a _senior research scientist II_ at [Phase Change Software](http://phasechange.ai/).
 
 My primary research interests are in data science and automated software engineering. I specifically work in the area of program comprehension targeted towards improving developer/tester/end-user productivity.
 
