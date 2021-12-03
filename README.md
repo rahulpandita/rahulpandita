@@ -11,7 +11,7 @@ I received my [PhD.](rahulpandita.github.io/files/diploma.pdf) from [NCSU](http:
 And I believe that “There is so much more left to be done...”. 
 I strongly believe that there is always room for improvement ...
 
-Contact me at rpandita ~ 'at' ~ phasechange ~ 'dot' ~ ai.
+Contact me at rahulpandita ~ 'at' ~ github ~ 'dot' ~ com.
 
 <!--
 **rahulpandita/rahulpandita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
